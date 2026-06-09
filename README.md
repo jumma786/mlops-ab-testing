@@ -99,8 +99,8 @@ make run
 | 6 | Feature Store | [mlops-feature-store](https://github.com/jumma786/mlops-feature-store) | ✅ |
 | 7 | Model Monitoring | [mlops-model-monitoring](https://github.com/jumma786/mlops-model-monitoring) | ✅ |
 | **8** | **A/B Testing** | [mlops-ab-testing](https://github.com/jumma786/mlops-ab-testing) | ✅ This repo |
-| 9 | Airflow Orchestration | mlops-airflow-pipeline | 🔜 |
-| 10 | Kubernetes Platform | mlops-k8s-platform | 🔜 |
+| 9 | Airflow Pipeline | [mlops-airflow-pipeline](https://github.com/jumma786/mlops-airflow-pipeline) | ✅ |
+| 10 | Kubernetes Platform | [mlops-k8s-platform](https://github.com/jumma786/mlops-k8s-platform) | ✅ |
 
 ---
 
