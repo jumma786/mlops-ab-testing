@@ -6,7 +6,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-stats-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-> **Part of the MLOps Portfolio Series** — Project 8 of 10  
+> **Part of the [MLOps Portfolio Series](https://github.com/jumma786/mlops-portfolio)** — Project 8 of 10  
 > A/B testing framework that routes prediction traffic between Control (LogisticRegression) and Challenger (XGBoost), tracks conversions, and runs statistical significance tests to decide the winner.
 
 ---
